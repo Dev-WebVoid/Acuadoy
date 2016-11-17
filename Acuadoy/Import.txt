@@ -1,0 +1,9 @@
+This is a Java 1.8 Eclipse Project and you just have to copy those folders in your Project and add the img folder as a source folder as well.
+Then it should work all fine.
+
+TODO:
+   - create Eclipse Project
+   - add folders
+   - set "img" as a second source folder
+   - try to run
+   - THERE YOU GO!
